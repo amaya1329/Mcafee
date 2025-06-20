@@ -1,4 +1,4 @@
-How McAfee’s Customer Service Helps You Navigate Digital Protection Challenges?
+How McAfee’s Customer Service Helps You Navigate Digital Protection Challenges
 =================================================================
 
 
