@@ -2,7 +2,7 @@ McAfee Antivirus: Defending Against the Latest Cyber Threats
 ============================================
 
 
-.. image:: click-here.mp4
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
